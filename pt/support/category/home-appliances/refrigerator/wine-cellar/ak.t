@@ -81,13 +81,13 @@
       <meta property="og:url" content="https://www.samsung.com/pt/support/category/home-appliances/refrigerator/wine-cellar/ak.t"/>
       <meta property="og:image" content="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/logo-square-letter.png"/>
       <meta property="og:type" content="website"/>
-      <meta property="og:site_name" content="Samsung pt"/>
+      <meta property="og:site_name" content="Samsung AO"/>
       <meta property="og:locale" content="pt-PT"/>
       <meta property="og:title" content="Electrodomésticos - Frigorífico Cave de vinhos | Samsung Support Portugal"/>
       <meta property="og:description" content="Electrodomésticos - Frigorífico Cave de vinhos | Samsung Support Portugal"/>
       <meta property="og:country-name" content="pt"/>
       
-      <meta property="name" content="Samsung pt"/>
+      <meta property="name" content="Samsung AO"/>
       <meta property="image" content="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/logo-square-letter.png"/>
       <meta property="url" content="https://www.samsung.com/pt/support/category/home-appliances/refrigerator/wine-cellar/ak.t"/>
       <meta property="description" content="Electrodomésticos - Frigorífico Cave de vinhos | Samsung Support Portugal"/>
