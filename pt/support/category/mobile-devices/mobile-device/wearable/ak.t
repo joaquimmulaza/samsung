@@ -6284,7 +6284,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="13d04a6f-e02b-48df-a6a6-47e5c5691e6b">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/wearable/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="13d04a6f-e02b-48df-a6a6-47e5c5691e6b">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/wearable/ak.t"}</script>
 
 
 

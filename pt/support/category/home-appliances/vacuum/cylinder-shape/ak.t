@@ -5101,7 +5101,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="463df7e9-2e57-474c-a06a-72ccd70f6426">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//home-appliances/vacuum/cylinder-shape/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="463df7e9-2e57-474c-a06a-72ccd70f6426">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//home-appliances/vacuum/cylinder-shape/ak.t"}</script>
 
 
 

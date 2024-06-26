@@ -5662,7 +5662,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="501783de-9771-4102-81b0-e5cb62db9c99">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//tv-audio-video/television/others/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="501783de-9771-4102-81b0-e5cb62db9c99">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//tv-audio-video/television/others/ak.t"}</script>
 
 
 

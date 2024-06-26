@@ -5418,7 +5418,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="9d0d8f1e-7531-4f0d-b61c-24abe2d6e8e8">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//computing/pc-monitor/lcd-led/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="9d0d8f1e-7531-4f0d-b61c-24abe2d6e8e8">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//computing/pc-monitor/lcd-led/ak.t"}</script>
 
 
 

@@ -5998,7 +5998,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="ad757f8d-1be0-4a71-9bec-8de7a4cf564b">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//home-appliances/laundry/front-loader/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="ad757f8d-1be0-4a71-9bec-8de7a4cf564b">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//home-appliances/laundry/front-loader/ak.t"}</script>
 
 
 

@@ -5101,7 +5101,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="4320c0d4-ac05-4488-9adf-cf644061a9c8">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//home-appliances/vacuum/others/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="4320c0d4-ac05-4488-9adf-cf644061a9c8">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//home-appliances/vacuum/others/ak.t"}</script>
 
 
 

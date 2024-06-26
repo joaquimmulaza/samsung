@@ -5408,7 +5408,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="68069a60-aeb0-45c2-a41e-de4c3cda599c">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//home-appliances/refrigerator/wine-cellar/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="68069a60-aeb0-45c2-a41e-de4c3cda599c">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//home-appliances/refrigerator/wine-cellar/ak.t"}</script>
 
 
 

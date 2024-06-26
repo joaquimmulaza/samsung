@@ -9260,7 +9260,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="b33cbf62-9c45-42a8-89a7-b43751f42fbc">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/smart-phone/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="b33cbf62-9c45-42a8-89a7-b43751f42fbc">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/smart-phone/ak.t"}</script>
 
 
 

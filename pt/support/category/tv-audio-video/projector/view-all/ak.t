@@ -5306,7 +5306,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="bb878338-bb22-43c7-ab22-9e2025167786">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//tv-audio-video/projector/view-all/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="bb878338-bb22-43c7-ab22-9e2025167786">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//tv-audio-video/projector/view-all/ak.t"}</script>
 
 
 

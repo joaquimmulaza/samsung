@@ -6292,7 +6292,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="3c0d3acc-40ab-4959-9eef-b3c095286e73">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//tv-audio-video/television/qled/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="3c0d3acc-40ab-4959-9eef-b3c095286e73">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//tv-audio-video/television/qled/ak.t"}</script>
 
 
 

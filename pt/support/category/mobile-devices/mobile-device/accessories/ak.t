@@ -5488,7 +5488,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="df674310-68b4-423f-84d3-f52331829082">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/accessories/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="df674310-68b4-423f-84d3-f52331829082">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/accessories/ak.t"}</script>
 
 
 

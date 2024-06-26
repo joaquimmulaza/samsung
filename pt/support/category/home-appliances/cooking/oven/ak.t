@@ -5336,7 +5336,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="d0c37df3-3423-41b0-ac7f-085ff91f3ae6">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//home-appliances/cooking/oven/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="d0c37df3-3423-41b0-ac7f-085ff91f3ae6">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//home-appliances/cooking/oven/ak.t"}</script>
 
 
 

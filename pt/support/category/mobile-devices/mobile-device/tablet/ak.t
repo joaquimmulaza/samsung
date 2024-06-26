@@ -5670,7 +5670,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="0a71107f-e5ad-481e-8ec8-9aab9d961268">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/tablet/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="0a71107f-e5ad-481e-8ec8-9aab9d961268">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//mobile-devices/mobile-device/tablet/ak.t"}</script>
 
 
 

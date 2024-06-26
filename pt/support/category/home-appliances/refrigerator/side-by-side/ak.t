@@ -5792,7 +5792,7 @@ var digitalData = {
     
     
   
-  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="cf7e289d-10bb-4750-8a8d-1fb66a0e043c">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Portugal","url":"https://www.samsung.com/pt/support/category//home-appliances/refrigerator/side-by-side/ak.t"}</script>
+  <script type="application/ld+json" data-type="seo" data-object-type="WebPage" data-id="cf7e289d-10bb-4750-8a8d-1fb66a0e043c">{"@context":"http://schema.org","@type":"WebPage","name":"SAMSUNG | Samsung Angola","url":"https://www.samsung.com/pt/support/category//home-appliances/refrigerator/side-by-side/ak.t"}</script>
 
 
 
